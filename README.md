@@ -18,6 +18,7 @@
 
 >**Here is my study plan to achieve:** (it will be updated as my studies progress)
 
+
 | Content | Description |
 | ------- | ----------- |
 |About computer science, OS, and programming basics terminal | learn about the computers, basics, science, math, terminal codes, explore OS |
