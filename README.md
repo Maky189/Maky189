@@ -1,5 +1,5 @@
 <!--Header-->
-# Hello I am Maky
+# Hello I am Maky188
 
 ## My first repository
 
@@ -23,5 +23,4 @@
 
 **This README file will keep been updated as I progress**
 >[My profile](https://github.com/Maky189)
- 
-![Image](https://avatars.githubusercontent.com/u/121188751?v=4)
+
