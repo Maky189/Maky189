@@ -1,22 +1,20 @@
 <!--Header-->
 # Hello I am Maky188
 
-## My first repository
+## My Github
 
-### 22 December 2022
+### Created 22 December 2022
 
 <!--content-->
 ---
 **Hello my name is Maky188 and I plan to be a programmer, here are some informations about me:**
 
-* I have 22 years old
+* I am 21 years old
 * I am a student of programming
-* This is my first repository and my first work at github
-* I intend to become a fullstack programmer
 
 <!--table-->
 
->**Here is my study plan to achieve:** (it will be updated as my studies progress)
+>** (it will be updated as my studies progress)
 
 
 
