@@ -11,7 +11,7 @@
 (Java | C | AWS | React JS | Python | C++ | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Software Enginner @[Universidade do Mindelo](https://um.edu.cv/)
 - My [Instagram](https://www.instagram.com/marcosgomes188/).
-- 🎓 Computer Science Student
+- 🎓 Student
 - 🌐💻 Passionate about Cibersecurity
 - 💡 Love a good challenge
 
