@@ -23,10 +23,10 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibe
 
 #### My socials:
 
-<a href="https://www.linkedin.com/in/marcos-gabriel-628b6a260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marcos Gomes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20850459/maky-188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Marcos Gomes" height="30" width="40" /></a>
 <a href="https://instagram.com/marcosgomes188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MarcosGomes" height="30" width="40" /></a>
 <a href="https://twitter.com/MarcosGomes188" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706745600&semt=ais" alt="MarcosGomes" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcos-gabriel-628b6a260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marcos Gomes" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20850459/maky-188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Marcos Gomes" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Maky188" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-circle-512.png" alt="MarcosGomes" height="40" width="40" /></a>
 <a href="https://www.threads.net/@marcosgomes188" target="blank"><img align="center" src="https://www.threadspage.com/static/img/threads-icon-1024.png" alt="MarcosGomes" height="40" width="40" /></a>
 </p>
