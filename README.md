@@ -6,7 +6,7 @@
 
 
 ## My name is Marcos Gomes
-Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibersecurity and developing software solutions. You can checkout my social media at: 
+Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibersecurity and developing software solutions. Checkout my social medias. 
 🚀
 #### My top tools
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,javascript,mysql,docker,linux,netlify)](https://skillicons.dev)
