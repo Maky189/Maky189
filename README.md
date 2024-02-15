@@ -35,6 +35,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibe
 ![Marcos Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=maky189&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maky189&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Maky189&show_icons=true&theme=tokyonight)
 
 
