@@ -1,19 +1,18 @@
 
-<h1>Hello Y'all! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Y'all+👋;The+Best+Is+Here+😎)](https://git.io/typing-svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-makypgt555@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:maky188pgt555@gmai.com)
 
+## My name is Marcos Gomes 🛹
 
-
-## My name is Marcos Gomes
-Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibersecurity and developing software solutions. Checkout my social medias. 
+Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibersecurity and developing software solutions. All the coding projects are built from the ground up, from planning and designing all the way to solve real-live problems with code. Checkout my social medias to know more about me.
 🚀
 #### My top tools
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,javascript,mysql,docker,linux,netlify)](https://skillicons.dev)
 
-- 👩‍💻 Software Enginner @[Universidade do Mindelo](https://um.edu.cv/)
+- 👩‍💻 Corrently learning
 - My [Instagram](https://www.instagram.com/marcosgomes188/).
-- 🎓 Student
+- 🎓 Student  @[Universidade do Mindelo](https://um.edu.cv/)
 - 🌐💻 Passionate about Cibersecurity
 - 💡 Love a good challenge
 
@@ -36,13 +35,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibe
 ![Marcos Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=maky189&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maky189&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Maky189&show_icons=true&theme=tokyonight)
-
-
-
-
-</div>
 
 
 
