@@ -45,6 +45,8 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibe
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Maky189&show_icons=true&theme=tokyonight)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![GeoCaboVerde](https://ytcards.demolab.com/?id=-jZwlckees8&title=GeoCaboVerde&lang=en&timestamp=1739866273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GeoCaboVerde")](https://www.youtube.com/watch?v=-jZwlckees8)
+[![This is CS50 in Cabo Verde](https://ytcards.demolab.com/?id=mtwAi-Rgjj0&title=This+is+CS50+in+Cabo+Verde&lang=en&timestamp=1672853183&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "This is CS50 in Cabo Verde")](https://www.youtube.com/watch?v=mtwAi-Rgjj0)
 <!-- END YOUTUBE-CARDS -->
 
 
