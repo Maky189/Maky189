@@ -1,13 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Y'all+👋;The+Best+Is+Here+😎)](https://git.io/typing-svg)
 
-<a href="https://www.youtube.com/@marcosgabriel1639?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://github.com/maky189?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/maky189?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
 [![Gmail Badge](https://img.shields.io/badge/-makypgt555@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:maky188pgt555@gmai.com)
 
 ## My name is Marcos Gomes 🛹
@@ -44,6 +37,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibe
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Maky189&show_icons=true&theme=tokyonight)
 
+### See about my projects on YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
 [![GeoCaboVerde](https://ytcards.demolab.com/?id=-jZwlckees8&title=GeoCaboVerde&lang=en&timestamp=1739866273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GeoCaboVerde")](https://www.youtube.com/watch?v=-jZwlckees8)
 <!-- END YOUTUBE-CARDS -->
