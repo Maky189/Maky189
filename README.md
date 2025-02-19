@@ -29,13 +29,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cibe
 <a href="https://www.threads.net/@marcosgomes188" target="blank"><img align="center" src="https://www.threadspage.com/static/img/threads-icon-1024.png" alt="MarcosGomes" height="40" width="40" /></a>
 </p>
 
-![Marcos Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=maky189&show_icons=true&theme=radical) ![GitHub streak stats](https://streak-stats.demolab.com/?user=Maky189&show_icons=true&theme=tokyonight)
-
-<div align=center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maky189&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align=left>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maky189&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![Marcos Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=maky189&show_icons=true&theme=radical)
 
 ### See about my projects on YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
