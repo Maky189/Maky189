@@ -52,7 +52,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.Maky190 }}
+          github_user_name: ${{ github.Maky189 }}
 
 
           # Define the output files and their configurations
