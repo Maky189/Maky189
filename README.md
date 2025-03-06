@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Y'all+👋;The+Best+Is+Here+😎)](https://git.io/typing-svg)
 
-[![Gmail Badge](https://img.shields.io/badge/-makypgt555@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:maky188pgt555@gmai.com)
-
-
-<a href="https://github.com/Maky189"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+[![Gmail Badge](https://img.shields.io/badge/-makypgt555@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandakipper.com)](mailto:maky188pgt555@gmai.com) <a href="https://github.com/Maky189"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
 
 ![](header_.png)
 
@@ -19,7 +16,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cybe
 - 👩‍💻 Corrently learning
 - My [Instagram](https://www.instagram.com/marcosgomes188/).
 - 🎓 Student  @[Universidade do Mindelo](https://um.edu.cv/)
-- 🌐💻 Passionate about Cibersecurity
+- 🌐💻 Passionate about Cybersecurity
 - 💡 Love a good challenge
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maky189&show_icons=true&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
