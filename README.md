@@ -38,7 +38,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cybe
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maky189&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![Marcos Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=maky189&show_icons=true&theme=radical)
 
 
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ### See about my projects on YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
