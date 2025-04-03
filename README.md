@@ -11,7 +11,7 @@
 Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cybersecurity and developing software solutions. All the coding projects are built from the ground up, from planning and designing all the way to solve real-live problems with code. Checkout my social medias to know more about me.
 🚀
 #### My top tools
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,javascript,mysql,docker,linux,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,javascript,mysql,docker,linux,netlify,cpp,haskell)](https://skillicons.dev)
 
 - 👩‍💻 Corrently learning
 - My [Instagram](https://www.instagram.com/marcosgomes188/).
