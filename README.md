@@ -19,7 +19,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cybe
 - 🌐💻 Passionate about Cybersecurity
 - 💡 Love a good challenge
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maky189&show_icons=true&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <div align="left">
 
@@ -29,11 +29,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cybe
 <a href="https://www.linkedin.com/in/marcos-gabriel-628b6a260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marcos Gomes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20850459/maky-188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Marcos Gomes" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Maky188" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-circle-512.png" alt="MarcosGomes" height="40" width="40" /></a>
-<a href="https://www.threads.net/@marcosgomes188" target="blank"><img align="center" src="https://www.threadspage.com/static/img/threads-icon-1024.png" alt="MarcosGomes" height="40" width="40" /></a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maky189&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![Marcos Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=maky189&show_icons=true&theme=radical)
-
 
 ![snake gif](https://github.com/Maky189/Maky189/blob/output/github-snake-dark.svg)
 
