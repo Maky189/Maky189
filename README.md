@@ -35,8 +35,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cybe
 
 ### See about my projects on YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
-[![1 month building a GPU-powered 2.5D engine from scratch.](https://ytcards.demolab.com/?id=zPz0c01jK8Q&title=1+month+building+a+GPU-powered+2.5D+engine+from+scratch.&lang=en&timestamp=1772494044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1 month building a GPU-powered 2.5D engine from scratch.")](https://www.youtube.com/watch?v=zPz0c01jK8Q)
-[![GeoCaboVerde](https://ytcards.demolab.com/?id=-jZwlckees8&title=GeoCaboVerde&lang=en&timestamp=1739866273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GeoCaboVerde")](https://www.youtube.com/watch?v=-jZwlckees8)
+
 <!-- END YOUTUBE-CARDS -->
 
 ![](Bottom_down.svg)
