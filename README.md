@@ -21,7 +21,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cybe
 
 
 
-<div align="left">
+<div align="center">
 
 #### My socials:
 <a href="https://instagram.com/marcosgomes188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MarcosGomes" height="30" width="40" /></a>
