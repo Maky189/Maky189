@@ -1,17 +1,64 @@
 name: GitHub Readme YouTube Cards
+env:
+  # Opt into Node.js 24 now (surfaces compatibility issues before GitHub forces the change).
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 on:
-  # Disabled automatic schedule to prevent unexpected empty updates.
-  # This workflow will now only run when manually triggered from the Actions tab.
+  # Manual trigger only — run manually to test
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Allow the job to commit to the repository when intentionally run
     permissions:
       contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate YouTube cards
+        id: gen
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCndxohx8qq5k5wzdE01LNoQ
+
+      - name: Validate generated YouTube block and restore if empty
+        run: |
+          set -euo pipefail
+          FILE="README.md"
+          START="<!-- BEGIN YOUTUBE-CARDS -->"
+          END="<!-- END YOUTUBE-CARDS -->"
+
+          # Extract content between markers (excluding the marker lines);
+          # remove all whitespace to decide emptiness safely.
+          sed -n "/$START/,/$END/p" "$FILE" | sed '1d;$d' | tr -d '[:space:]' > /tmp/ytcards.txt || true
+
+          if [ ! -s /tmp/ytcards.txt ]; then
+            echo "Generated YouTube block is empty — restoring previous README"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+            # If the action already committed an empty README, HEAD is that commit; restore the previous committed README.
+            if git rev-parse --verify HEAD~1 >/dev/null 2>&1; then
+              git checkout HEAD~1 -- "$FILE"
+            else
+              # fallback: fetch previous from origin
+              git fetch origin
+              git checkout origin/main~1 -- "$FILE" || true
+            fi
+
+            git add "$FILE"
+            # commit only if something changed
+            if git diff --staged --quiet; then
+              echo "No changes to commit after restore"
+            else
+              git commit -m "chore: restore README — generated YouTube cards were empty"
+              git push origin HEAD:main
+            fi
+          else
+            echo "YouTube cards present — nothing to restore"
+          fi
