@@ -14,7 +14,7 @@ Software Engineer student at Uni-Mindelo, Cabo Verde.  I have a passion for Cybe
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,javascript,mysql,docker,linux,netlify,cpp,haskell)](https://skillicons.dev)
 
 - 👩‍💻 Corrently learning
-- My [Instagram](https://www.instagram.com/marcosgomes188/).
+- My [Instagram](https://www.instagram.com/marcos_gomes_dev/).
 - 🎓 Student  @[Universidade do Mindelo](https://um.edu.cv/)
 - 🌐💻 Passionate about Cybersecurity
 - 💡 Love a good challenge
